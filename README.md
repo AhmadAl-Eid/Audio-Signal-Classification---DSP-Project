@@ -6,7 +6,7 @@ EE 413: Applied Digital Signal Processing Spring 2026 (252)
 King Fahd University of Petroleum and Minerals (KFUPM)
 Department of Electrical Engineering
 
-This project classifies spoken digits (0–9) from the Free-Spoken Digit Dataset by extracting features in the time domain, frequency domain (DFT and STFT), and time-frequency domain (Discrete Wavelet Transform), then comparing classification accuracy across these DSP techniques.
+This project classifies spoken digits (0–9) from the Free-Spoken Digit Dataset and analyze the features in the time domain and frequency domain (DFT and STFT) and Wavelet Transform then compares the classification accuracy.
 
 # Methodology
 ## 1. Preprocessing
